@@ -1,0 +1,74 @@
+html{
+    background: url(backg.jpeg);
+    background-size: cover;
+}
+.container{
+    width: 300px;    
+    display: block;
+    margin: 180px auto;
+    
+    border-radius: 10%;
+    background-image: url(weather.jpeg);
+    background-size: cover;
+}
+.app-title{
+    width: 300px;
+}
+.app-title p{
+    text-align: center;
+    font-size: 3em;
+    margin: 0;
+    padding: 10px auto;
+}
+.notification{
+    width: 300px;
+}
+.notification p{
+    text-align: center;
+    font-size: 1.2em;
+}
+.weather-info{
+    width: 300px;
+    height: 300px;
+}
+.icon{
+    width: 300px;
+    height: 128 px;
+}
+.icon img{
+    display: block;
+    margin: 0 auto;
+}
+.value{
+    width: 300px;
+}
+.value p{
+    padding: 0;
+    margin: 0;
+    font-size: 4em;
+    text-align: center;
+    cursor: pointer;
+}
+.value span{
+    font-size: 0.7em;
+}
+.description{
+    width: 300px;
+    height: 50px;
+}
+.description p{
+    padding-top: 15px;
+    margin: 0;
+    text-align: center;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+.location{
+    width: 300px;
+}
+.location p{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 1.2em;
+}
